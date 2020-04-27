@@ -1,0 +1,15 @@
+{
+  "name": "04-todo",
+  "version": "1.0.0",
+  "description": "Lista de tareas por hacer ()\u001b[DT)\u001b[  \u001b[DTo do list )",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nestor Edrev",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
+}
